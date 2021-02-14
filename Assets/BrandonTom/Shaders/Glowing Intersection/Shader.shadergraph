@@ -65,7 +65,11 @@
         }
     ],
     "m_GroupDatas": [],
-    "m_StickyNoteDatas": [],
+    "m_StickyNoteDatas": [
+        {
+            "m_Id": "ab91efe23f3442978df3f27976a05c36"
+        }
+    ],
     "m_Edges": [
         {
             "m_OutputSlot": {
@@ -1668,6 +1672,26 @@
     "m_PreviewMode": 0,
     "m_CustomColors": {
         "m_SerializableColors": []
+    }
+}
+
+{
+    "m_SGVersion": 0,
+    "m_Type": "UnityEditor.ShaderGraph.StickyNoteData",
+    "m_ObjectId": "ab91efe23f3442978df3f27976a05c36",
+    "m_Title": "Source",
+    "m_Content": "https://www.youtube.com/watch?v=tbySMSh6Ip0",
+    "m_TextSize": 0,
+    "m_Theme": 0,
+    "m_Position": {
+        "serializedVersion": "2",
+        "x": 423.0,
+        "y": -229.0,
+        "width": 287.0,
+        "height": 100.0
+    },
+    "m_Group": {
+        "m_Id": ""
     }
 }
 
